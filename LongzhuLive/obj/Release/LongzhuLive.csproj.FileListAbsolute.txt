@@ -1,0 +1,13 @@
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\bin\Release\LongzhuLive.exe.config
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\bin\Release\LongzhuLive.exe
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\bin\Release\LongzhuLive.pdb
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\bin\Release\Newtonsoft.Json.dll
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\bin\Release\websocket-sharp.dll
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\bin\Release\Newtonsoft.Json.xml
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\bin\Release\websocket-sharp.xml
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\obj\Release\LongzhuLive.Form1.resources
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\obj\Release\LongzhuLive.Properties.Resources.resources
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\obj\Release\LongzhuLive.csproj.GenerateResource.Cache
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\obj\Release\LongzhuLive.exe
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\obj\Release\LongzhuLive.pdb
+F:\vs2013工程文件夹\LongzhuLive-master\LongzhuLive\obj\Release\LongzhuLive.csprojResolveAssemblyReference.cache
