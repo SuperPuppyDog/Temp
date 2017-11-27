@@ -21,7 +21,7 @@ namespace LongzhuLive.Common
         public int grade { get; set; }
         public float score { get; set; }
         public int id { get; set; }
-        public string highlight { get; set; }
+        public object highlight { get; set; }
         public string relationshipStat { get; set; }
         public string nickname { get; set; }
         public string hostAvatar { get; set; }

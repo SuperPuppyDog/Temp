@@ -10,7 +10,7 @@ namespace LongzhuLive
     {
         public static bool VerifyUser()
         {
-            if (DateTime.Now >= new DateTime(2017, 11, 25, 0, 0, 0))
+            if (DateTime.Now >= new DateTime(2017, 11, 29, 0, 0, 0))
             {
                 return false;
             }
